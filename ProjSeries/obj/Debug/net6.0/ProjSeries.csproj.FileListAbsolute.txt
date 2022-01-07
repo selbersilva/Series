@@ -1,0 +1,5 @@
+C:\Users\Windows\OneDrive\Documentos\dio\Series\projSeries\obj\Debug\net6.0\ProjSeries.csproj.AssemblyReference.cache
+C:\Users\Windows\OneDrive\Documentos\dio\Series\projSeries\obj\Debug\net6.0\ProjSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\OneDrive\Documentos\dio\Series\projSeries\obj\Debug\net6.0\ProjSeries.AssemblyInfoInputs.cache
+C:\Users\Windows\OneDrive\Documentos\dio\Series\projSeries\obj\Debug\net6.0\ProjSeries.AssemblyInfo.cs
+C:\Users\Windows\OneDrive\Documentos\dio\Series\projSeries\obj\Debug\net6.0\ProjSeries.csproj.CoreCompileInputs.cache
